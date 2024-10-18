@@ -1,0 +1,2 @@
+t="HELLO WORLD2"
+t[-7::1]
